@@ -194,7 +194,7 @@ achievement(
     id = 572218,
     badge = "649992",
     title = "Cherry Blossoms",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -208,7 +208,7 @@ achievement (
     id = 576046,
     badge = "653839",
     title = "Simple Arithmetic",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -222,7 +222,7 @@ achievement (
     id = 576049,
     badge = "653841",
     title = "Classically Trained",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -238,7 +238,7 @@ achievement (
     id = 576050,
     badge = "653842",
     title = "Land of the Rising Sun",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -260,7 +260,7 @@ achievement (
     id = 576051,
     badge = "653843",
     title = "Three's a Crowd",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -294,7 +294,7 @@ achievement (
     id = 576052,
     badge = "653844",
     title = "Freehanding",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -332,7 +332,7 @@ achievement (
     id = 576053,
     badge = "653845",
     title = "Everyday I'm Shuffling",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -352,7 +352,7 @@ achievement (
     id = 576054,
     badge = "653846",
     title = "Don't Point, It's Rude",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -434,7 +434,7 @@ achievement (
     id = 576055,
     badge = "653847",
     title = "That Was Easy",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Easy",
     points = 1,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -478,7 +478,7 @@ achievement (
     id = 584015,
     badge = "662460",
     title = "City of Owl's",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -494,7 +494,7 @@ achievement (
     id = 584016,
     badge = "662461",
     title = "Illuminate",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -510,7 +510,7 @@ achievement (
     id = 584017,
     badge = "662462",
     title = "Just One More Square",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -532,7 +532,7 @@ achievement (
     id = 584018,
     badge = "662463",
     title = "Things Are a Little Hazy",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -548,7 +548,7 @@ achievement (
     id = 584019,
     badge = "662464",
     title = "Aim for the Top",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -576,7 +576,7 @@ achievement (
     id = 584020,
     badge = "662465",
     title = "Rated R",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -600,7 +600,7 @@ achievement (
     id = 584021,
     badge = "662466",
     title = "The New Orleans Scene",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -640,7 +640,7 @@ achievement (
     id = 584022,
     badge = "662467",
     title = "X Marks the Spot",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -670,7 +670,7 @@ achievement (
     id = 584023,
     badge = "662468",
     title = "Medium-Rare Please",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Medium",
     points = 2,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -761,7 +761,7 @@ achievement (
     id = 586683,
     badge = "665186",
     title = "Mine Sweeper Anyone?",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -779,7 +779,7 @@ achievement (
     id = 586686,
     badge = "665189",
     title = "Old School Terminal",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -799,7 +799,7 @@ achievement (
     id = 586684,
     badge = "665187",
     title = "Starting to Look Like Algebra",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -843,7 +843,7 @@ achievement (
     id = 586685,
     badge = "665188",
     title = "Uneven Squares",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -881,7 +881,7 @@ achievement (
     id = 586687,
     badge = "665190",
     title = "Get Your Inked Ribbon Ready",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -909,7 +909,7 @@ achievement (
     id = 586688,
     badge = "665191",
     title = "Expelled",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -951,7 +951,7 @@ achievement (
     id = 586689,
     badge = "665192",
     title = "Something to Do with Flowers",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -983,7 +983,7 @@ achievement (
     id = 586690,
     badge = "665193",
     title = "Hard Boiled",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Hard",
     points = 3,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1036,7 +1036,7 @@ achievement (
     id = 586691,
     badge = "665194",
     title = "Empire State",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1056,7 +1056,7 @@ achievement (
     id = 586692,
     badge = "665195",
     title = "Flow State",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1080,7 +1080,7 @@ achievement (
     id = 586693,
     badge = "665196",
     title = "This Just in!",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1106,7 +1106,7 @@ achievement (
     id = 586694,
     badge = "665197",
     title = "An Indoor Day",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1142,7 +1142,7 @@ achievement (
     id = 586695,
     badge = "665198",
     title = "Silent but Deadly",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1186,7 +1186,7 @@ achievement (
     id = 586696,
     badge = "665199",
     title = "Part of the Tribe",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1212,7 +1212,7 @@ achievement (
     id = 586697,
     badge = "665200",
     title = "Blackletter",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1266,7 +1266,7 @@ achievement (
     id = 586698,
     badge = "665201",
     title = "Professional Courtesy",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Pro",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Pro",
     points = 4,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1311,7 +1311,7 @@ achievement (
     id = 586699,
     badge = "665202",
     title = "Think Really Large",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1333,7 +1333,7 @@ achievement (
     id = 586700,
     badge = "665203",
     title = "Fire and Brimstone",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1357,7 +1357,7 @@ achievement (
     id = 586701,
     badge = "665204",
     title = "If You're Feeling Fancy",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1371,7 +1371,7 @@ achievement (
     id = 586702,
     badge = "665205",
     title = "Soapy Water",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1431,7 +1431,7 @@ achievement (
     id = 586703,
     badge = "665206",
     title = "Sharp Corners",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1463,7 +1463,7 @@ achievement (
     id = 586704,
     badge = "665207",
     title = "Relax Bro",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1485,7 +1485,7 @@ achievement (
     id = 586705,
     badge = "665208",
     title = "The Hobbit Times",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1545,7 +1545,7 @@ achievement (
     id = 586706,
     badge = "665210",
     title = "95 Years of Zen",
-    description = "Beat Sudoku's "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
+    description = "Beat Sudokus "+a[0]+" - "+a[length(a)-1]+" on Sudoku X",
     points = 5,
     type = "progression",
     trigger = CompletedPuzzle() &&
@@ -1591,7 +1591,7 @@ for i in range(0, 6) {
         id = KakuroEasyIDs[i],
         badge = KakuroEasyBadges[i],
         title = KakuroEasyTitles[i],
-        description = "Beat Kakuro's "+a[0]+" - "+a[length(a)-1]+" on Easy",
+        description = "Beat Kakuros "+a[0]+" - "+a[length(a)-1]+" on Easy",
         points = 2,
         trigger = CompletedPuzzle() &&
                   kakuroTrigger(a, "Easy")
@@ -1609,7 +1609,7 @@ for i in range(0, 6) {
         id = KakuroMediumIDs[i],
         badge = KakuroMediumBadges[i],
         title = KakuroMediumTitles[i],
-        description = "Beat Kakuro's "+a[0]+" - "+a[length(a)-1]+" on Medium",
+        description = "Beat Kakuros "+a[0]+" - "+a[length(a)-1]+" on Medium",
         points = 3,
         trigger = CompletedPuzzle() &&
                   kakuroTrigger(a, "Medium")
@@ -1627,7 +1627,7 @@ for i in range(0, 6) {
         id = KakuroHardIDs[i],
         badge = KakuroHardBadges[i],
         title = KakuroHardTitles[i],
-        description = "Beat Kakuro's "+a[0]+" - "+a[length(a)-1]+" on Hard",
+        description = "Beat Kakuros "+a[0]+" - "+a[length(a)-1]+" on Hard",
         points = 5,
         trigger = CompletedPuzzle() &&
                   kakuroTrigger(a, "Hard")
@@ -1667,12 +1667,13 @@ challengeIDs = [591781, 591782, 591783, 591784, 591785, 591786]
 challengeBadges = ["670612", "670613", "670614", "670615", "670616", "670617"]
 challengeTitles = ["Reverse Math", "Is Shipping Still A Thing?", "52 Pickup", "First Choice", "Now for Some Addition", "Watch Your Step"]
 challengeDescriptions = ["Subtract", "Pair Match", "Shuffle", "Choice Block", "High Sum", "Mine Detector"]
+//old description = "Complete 10 puzzles in a row in the " + challengeDescriptions[i] + " challenge. You must start the challenge from the main menu",
 for i in range(0, 5) {
     achievement (
         id = challengeIDs[i],
         badge = challengeBadges[i],
         title = challengeTitles[i],
-        description = "Complete 10 puzzles in a row in the " + challengeDescriptions[i] + " challenge. You must start the challenge from the main menu",
+        description = "Starting from the main menu, complete 10 puzzles in a row in the " + challengeDescriptions[i] + " challenge.",
         points = 5,
         trigger = CurrentChallenge == i &&
                   prev(CurrentChallengeRecord()) == 9 &&
